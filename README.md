@@ -9,10 +9,8 @@ During my data analytics bootcamp, I undertook a comprehensive project centered 
 
 
 
-https://github.com/adinaburlacu/Protein-Choices-and-CO2-Environmental-Impacts-Compared/assets/135728099/b5057bd4-8461-49a7-8b19-35c913f6589e
+
+https://github.com/adinaburlacu/Protein-Choices-and-CO2-Environmental-Impacts-Compared/assets/135728099/ed095433-6427-444b-bcd5-aa6568f92941
 
 
-
-
-https://github.com/adinaburlacu/Protein-Choices-and-CO2-Environmental-Impacts-Compared/assets/135728099/bb895618-e079-4216-a265-19e9ea0b2a58
 
