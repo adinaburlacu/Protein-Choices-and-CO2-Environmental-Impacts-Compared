@@ -9,7 +9,7 @@ During my data analytics bootcamp, I undertook a comprehensive project centered 
 
 
 
-## Grams of animal-based protein consumed per day per capita from 1960 to 2020 
+## Grams of animal-based protein consumed per day per capita from 1960 to 2020
 https://github.com/adinaburlacu/Protein-Choices-and-CO2-Environmental-Impacts-Compared/assets/135728099/ed095433-6427-444b-bcd5-aa6568f92941
 
 
