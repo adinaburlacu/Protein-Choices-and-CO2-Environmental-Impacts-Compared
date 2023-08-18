@@ -8,22 +8,6 @@ During my data analytics bootcamp, I undertook a comprehensive project centered 
 ![icons climate](https://github.com/adinaburlacu/Protein-Choices-and-CO2-Environmental-Impacts-Compared/assets/135728099/5ffce161-4edc-4752-8b60-4d84136bb331)
 
 
-### Emissions (kgCO₂eq) per KG of Protein Product.
-![lifecycle](https://github.com/adinaburlacu/Protein-Choices-and-CO2-Environmental-Impacts-Compared/assets/135728099/1e0b545f-e599-4978-8b63-f43e9d9d6b94)
-
-### Grams of animal-based protein consumed per day per capita from 1960 to 2020
-https://github.com/adinaburlacu/Protein-Choices-and-CO2-Environmental-Impacts-Compared/assets/135728099/ed095433-6427-444b-bcd5-aa6568f92941
-
-'
-
-'
-### Grams of plant-based protein consumed per day per capita from 1960 to 2020
-
-https://github.com/adinaburlacu/Protein-Choices-and-CO2-Environmental-Impacts-Compared/assets/135728099/1de5a530-3516-4a66-a4d5-c4727eef8b36
-
-'
-
-'
 
 ### Product clustering - Agrybalise dataset 
 
@@ -31,8 +15,8 @@ Regarding the Agrybalise dataset encompasses an extensive array of data concerni
 
 
 Utilizing this dataset, I systematically organized protein products into four distinct clusters, each delineated by their Environmental CO2 (ECO) scores. These scores are in a range starting from level 1, indicating minimal environmental impact, to level 4, which signifies a substantial ecological footprint.
-'
-'
+
+
 
 ### ECO Score indicators
 ![Untitled-2](https://github.com/adinaburlacu/Protein-Choices-and-CO2-Environmental-Impacts-Compared/assets/135728099/f802f214-4964-47d6-a30a-eafe254da4ed)
@@ -48,3 +32,15 @@ To bring clarity to the analysis, I developed an intuitive application. Users ca
 https://github.com/adinaburlacu/Protein-Choices-and-CO2-Environmental-Impacts-Compared/assets/135728099/5d3dc255-b459-4870-8bbc-89a4fe1b80c6
 
 
+
+## Data Sources
+##### Agrybalise
+note = https://doc.agribalyse.fr/documentation-en/agribalyse-data/data-access
+##### Our World in Data
+note = https://ourworldindata.org/environmental-impacts-of-food
+
+
+## Tools
+##### Python - Pandas - Numpy - Plotly 
+##### Tableau
+##### Streamlit app builder 
