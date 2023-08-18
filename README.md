@@ -1,5 +1,9 @@
 # Protein Choices and CO2 Environmental Impacts Compared
-
+## Project content
+### 1. Food lifecycle and greenhouse gas emissions generated at each stage
+### 2. Protein Consumption by Continent and Country
+### 3. Product clustering
+### 4. Building an app
 
 During my data analytics bootcamp, I undertook a comprehensive project centered around the carbon dioxide (CO2) emissions generated throughout the lifecycle of various protein production methods. This initiative involved a broad analysis of global protein preferences, shedding light on which nations lean towards plant-based versus animal-based protein consumption. 
 
