@@ -5,7 +5,7 @@
 ### 3. Product clustering
 ### 4. Building an app
 
-During my data analytics bootcamp, I undertook a comprehensive project centered around the carbon dioxide (CO2) emissions generated throughout the lifecycle of various protein production methods. This initiative involved a broad analysis of global protein preferences, shedding light on which nations lean towards plant-based versus animal-based protein consumption. 
+I undertook a comprehensive project centered around the carbon dioxide (CO2) emissions generated throughout the lifecycle of various protein production methods. This initiative involved a broad analysis of global protein preferences, shedding light on which nations lean towards plant-based versus animal-based protein consumption. 
 
 
 ### Food lifecycle 
